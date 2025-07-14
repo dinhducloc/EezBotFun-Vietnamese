@@ -1,0 +1,1 @@
+{"Ssid":"Chiquito2009","Pw":"matkhau@2009T","AutoStart":false,"AutoResetDeviceWhenLaunch":false,"EnableDynamicProfileSwitching":false,"DynamicProfileSwithingDefaultProfile":1,"TzId":"SE Asia Standard Time","PcinfoFreshFrequencyIndex":1}
